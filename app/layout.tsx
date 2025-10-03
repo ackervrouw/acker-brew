@@ -5,7 +5,7 @@ import { CartProvider } from "./components/CartContext";
 
 export const metadata: Metadata = {
   title: "ackerbrew ☕",
-  description: "lekker kopje? we gotcha!",
+  description: "welcome to our homebar!",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
